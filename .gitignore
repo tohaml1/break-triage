@@ -1,0 +1,6 @@
+*.csv
+breaks.csv
+summary.txt
+__pycache__/
+.venv/
+.DS_Store
